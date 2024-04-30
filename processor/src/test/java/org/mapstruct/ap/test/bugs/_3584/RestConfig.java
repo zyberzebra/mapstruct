@@ -1,4 +1,4 @@
-package org.mapstruct.ap.test.inheritfromconfig.issue;
+package org.mapstruct.ap.test.bugs._3584;
 
 import org.mapstruct.MapperConfig;
 import org.mapstruct.Mapping;

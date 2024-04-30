@@ -1,4 +1,4 @@
-package org.mapstruct.ap.test.inheritfromconfig.issue;
+package org.mapstruct.ap.test.bugs._3584;
 
 import org.junit.jupiter.api.extension.RegisterExtension;
 import org.mapstruct.ap.testutil.ProcessorTest;
